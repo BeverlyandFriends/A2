@@ -27,4 +27,4 @@ deploy:
   secret_access_key: w0uTrNLGtTjqzArT4Ntv/ZqLIiJ94YyQ+EIypIRn #populate with your own AWS secret key
   bucket: balinbanh-cps847.com
   local-dir: assignment2
-  region: canada-central-
+  region: ca-central-1
