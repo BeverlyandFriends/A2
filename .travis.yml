@@ -26,5 +26,5 @@ deploy:
   access_key_id: AKIAJQWMFU4EQ7QJEN6A #populate with your own AWS access key
   secret_access_key: w0uTrNLGtTjqzArT4Ntv/ZqLIiJ94YyQ+EIypIRn #populate with your own AWS secret key
   bucket: balinbanh-cps847.com
-  local-dir: assignment2
+  local-dir: testhtml
   region: ca-central-1
