@@ -14,8 +14,8 @@ after_success:
 - codecov --token=cd54358e-e6e7-44fa-ae8b-2c9ce3ac4c00
 deploy:
   provider: s3
-  access_key_id: $aws_access_key
-  secret_access_key: $aws_secret_access_key
+  access_key_id: aws_access_key
+  secret_access_key: aws_secret_access_key
   bucket: balinbanh-cps847.com
   local-dir: testhtml
   region: ca-central-1
