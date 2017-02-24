@@ -16,7 +16,7 @@ deploy:
   provider: s3
   access_key_id: $aws_access_key
   secret_access_key: $aws_secret_access_key
-  bucket: balinbanh-cps847.com
+  bucket: beverlyandfriends-cps847.com
   local-dir: testhtml
   region: ca-central-1
 env:
